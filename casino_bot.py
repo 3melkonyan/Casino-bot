@@ -20,7 +20,7 @@ from telegram.ext import (
     ContextTypes
 )
 
-BOT_TOKEN      = "YOUR_BOT_TOKEN_HERE"
+BOT_TOKEN      = "8862280805:AAF_CrRnVacKxVN8oNtJ4iESNHbdZrZSIuY"
 STARTING_COINS = 1000
 DAILY_BONUS    = 200
 
